@@ -1,0 +1,3 @@
+[submodule "libmd"]
+	path = libmd
+	url = https://github.com/originalsouth/libmd.git
